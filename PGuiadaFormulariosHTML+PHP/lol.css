@@ -1,0 +1,38 @@
+html {
+    background: linear-gradient(to bottom, yellow, red, yellow);
+    height: 100%;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+    height: 250px;
+    margin: 0;
+}
+
+div {
+    background-color: #000000;
+    padding: 5px;
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+}
+
+form {
+    text-align: center;
+}
+
+section{
+    background: linear-gradient(to top, yellow, red);
+    padding: 20px;
+    width: auto;
+    color: black;
+    text-align: center;
+}
